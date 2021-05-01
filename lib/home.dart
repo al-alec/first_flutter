@@ -37,7 +37,7 @@ class _HomeState extends State<Home> {
           children: [
             Text("Hello,", style: theme.textTheme.headline2),
             Text(
-              "Lamar Jr.",
+              "alec Jr.",
               style: theme.textTheme.headline1,
             ),
             SizedBox(
